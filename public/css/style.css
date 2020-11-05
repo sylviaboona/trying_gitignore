@@ -1,0 +1,62 @@
+.container{
+    background-color: khaki;
+    height: 750px;
+}
+h1{
+    font-style: italic;
+    padding-top: 200px;
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: cursive;
+}
+img{
+    margin-left: 600px;
+}
+.homebutton{
+    margin-left: 700px;
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: cursive;
+}
+.formbutton{
+    padding: 10px;
+    border-radius: 10px;
+    font-family: cursive;
+    background-color: lemonchiffon;
+    margin-left: 600px;
+    margin-top: -100px;
+}
+.outer{
+    width: 700px;
+    margin-left: 500px;
+}
+.inner{
+    width: 300px;
+    margin-left: 400px;
+    margin-top: -200px;
+}
+.inner2{
+    width: 300px;
+    margin-left: 400px;
+    margin-top: 0px;
+}
+.delivery{
+    margin-top: -200px;
+}
+.btn{
+    background-color: teal;
+    border-color: teal;
+}
+.card-header{
+    width: 493px;
+}
+.card-title{
+    text-align: center;
+    color: teal;
+}

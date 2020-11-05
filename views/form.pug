@@ -1,0 +1,14 @@
+extends layout
+block content
+    header.card-header
+        h4.card-title Login  
+    form(method="POST" action='/welcome')
+        div.form-row
+            div.col-8.form-group
+                input.form-control(name="name" id="name" type="text" placeholder="Name")
+        div.form-row
+            div.col-8.form-group
+                input.form-control(type="email" name="email" id="email" placeholder="Email e.g. get@exam.com")
+        div.form-row
+            div.col-8.form-group
+                button#try.btn.btn-primary.btn-block Submit
